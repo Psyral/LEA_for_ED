@@ -9,6 +9,7 @@ EM Tag Connector for LEA Extendend Input with Elite Dangerous
 * In LEA project manager, add the required EM Tags for your project to access.
   * The EM Tags should be set to type of 'Button'
 * Your project should access the EM tags via the LEA macros (either through macro triggers or the macro setters)
+
 A sample project exists in the [LEA Project Export folder](https://github.com/Psyral/LEA_for_ED/tree/master/LEA%20Project%20Export) to import via the LEA Resource Manager with macros already set.
 
 ### Prerequisites
