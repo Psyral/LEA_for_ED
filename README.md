@@ -32,7 +32,7 @@ You must have the LEA Extended Input Server for your computer and the Client for
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Psyral/LEA_for_ED/blob/master/LICENSE.md) file for details
 
 ## Acknowledgments
 
