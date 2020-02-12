@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	
+	<!-- CHANGE LeaConnection Password and Port if you do not use the LEA defaults -->
+	<LeaConnection>
+		<Password>123456</Password>
+		<Port>45612</Port>
+	</LeaConnection>
+	
+	<!-- CHANGE GameProject GameName and ProjectName to match the names used in the LEA Project Editor -->
+	<GameProject>
+		<GameName>Elite Dangerous Horizons</GameName>
+		<ProjectName>test</ProjectName>
+	</GameProject>
+	
+	<!-- You should not need to change any of the EDPathInfo -->
+	<EDPathInfo>
+		<DataPath>%UserProfile%\Saved Games\Frontier Developments\Elite Dangerous\</DataPath>
+		<StatusFile>Status.json</StatusFile>
+		<JournalFile>Journal*.log</JournalFile>
+	</EDPathInfo>
+	
+	<!-- Subscribed Status Events - Comment Out or Un-Comment what you want -->
+	<!-- You may change the EMTag and Default values if you wish -->
+	<StatusEvents>
+		<StatusEvent Event="Docked" EMTag="Docked" Default="False"></StatusEvent>
+		<StatusEvent Event="Landed" EMTag="Landed" Default="False"></StatusEvent>
+		<StatusEvent Event="LandingGearDown" EMTag="LandingGearDown" Default="False"></StatusEvent>
+		<StatusEvent Event="ShieldsUp" EMTag="ShieldsUp" Default="False"></StatusEvent>
+		<StatusEvent Event="Supercruise" EMTag="Supercruise" Default="False"></StatusEvent>
+		<StatusEvent Event="FlightAssistOff" EMTag="FlightAssistOff" Default="False"></StatusEvent>
+		<StatusEvent Event="HardpointsDeployed" EMTag="HardpointsDeployed" Default="False"></StatusEvent>
+		<StatusEvent Event="InWing" EMTag="InWing" Default="False"></StatusEvent>
+		<StatusEvent Event="LightsOn" EMTag="LightsOn" Default="False"></StatusEvent>
+		<StatusEvent Event="CargoScoopDeployed" EMTag="CargoScoopDeployed" Default="False"></StatusEvent>
+		<StatusEvent Event="SilentRunning" EMTag="SilentRunning" Default="False"></StatusEvent>
+		<StatusEvent Event="ScoopingFuel" EMTag="ScoopingFuel" Default="False"></StatusEvent>
+		<StatusEvent Event="SrvHandbrake" EMTag="SrvHandbrake" Default="False"></StatusEvent>
+		<StatusEvent Event="SrvUsingTurretView" EMTag="SrvUsingTurretView" Default="False"></StatusEvent>
+		<StatusEvent Event="SrvTurretRetracted" EMTag="SrvTurretRetracted" Default="False"></StatusEvent>
+		<StatusEvent Event="SrvDriveAssist" EMTag="SrvDriveAssist" Default="False"></StatusEvent>
+		<StatusEvent Event="FsdMassLocked" EMTag="FsdMassLocked" Default="False"></StatusEvent>
+		<StatusEvent Event="FsdCharging" EMTag="FsdCharging" Default="False"></StatusEvent>
+		<StatusEvent Event="FsdCooldown" EMTag="FsdCooldown" Default="False"></StatusEvent>
+		<StatusEvent Event="LowFuel" EMTag="LowFuel" Default="False"></StatusEvent>
+		<StatusEvent Event="OverHeating" EMTag="OverHeating" Default="False"></StatusEvent>
+		<StatusEvent Event="IsInDanger" EMTag="IsInDanger" Default="False"></StatusEvent>
+		<StatusEvent Event="BeingInterdicted" EMTag="BeingInterdicted" Default="False"></StatusEvent>
+		<StatusEvent Event="InMainShip" EMTag="InMainShip" Default="False"></StatusEvent>
+		<StatusEvent Event="InFighter" EMTag="InFighter" Default="False"></StatusEvent>
+		<StatusEvent Event="InSRV" EMTag="InSRV" Default="False"></StatusEvent>
+		<StatusEvent Event="HudInAnalysisMode" EMTag="HudInAnalysisMode" Default="False"></StatusEvent>
+		<StatusEvent Event="NightVision" EMTag="NightVision" Default="False"></StatusEvent>
+		<StatusEvent Event="FsdJump" EMTag="FsdJump" Default="False"></StatusEvent>
+		<StatusEvent Event="SrvHighBeam" EMTag="SrvHighBeam" Default="False"></StatusEvent>
+	</StatusEvents>
+	
+</Settings>
