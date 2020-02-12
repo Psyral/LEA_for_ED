@@ -13,7 +13,8 @@ A sample project exists in the [LEA Project Export folder] (https://github.com/P
 
 ### Prerequisites
 
-You must have the LEA Extended Input Server for your computer and the Client for your device -  [LEA Exteded Input](https://www.leaextendedinput.com/)
+You must have the LEA Extended Input Server for your computer and the Client for your device: 
+[LEA Exteded Input](https://www.leaextendedinput.com/)
 
 ## Running the LEA for ED executable
 
@@ -32,7 +33,7 @@ You must have the LEA Extended Input Server for your computer and the Client for
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Psyral/LEA_for_ED/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Psyral/LEA_for_ED/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
