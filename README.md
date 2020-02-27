@@ -4,7 +4,7 @@ EM Tag Connector for LEA Extendend Input with Elite Dangerous
 
 ## Getting Started
 
-* Get the Zip file under Release and unzip to a folder.
+* Get the Zip file under [Release](https://github.com/Psyral/LEA_for_ED/releases) then under the Assets section for the latest version and unzip to a folder.
 * Edit the `settings.xml` changing the password, port, game name, and project name to match your LEA project and settings.
 * In LEA project manager, add the required EM Tags for your project to access.
   * The EM Tags should be set to type of 'Button'
